@@ -1,2 +1,2 @@
-# Personal_Projects
- This is my first repository ever, and here I store my personal projects.
+# PingPong Game
+ This is my first JavaScript code ever. I was done based on my studies on DevSamurai and I'm really proud of it!:)
